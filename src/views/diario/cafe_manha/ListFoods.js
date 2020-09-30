@@ -5,7 +5,6 @@ import styles from './styles'
 
 const Foods = database;
 
-
 export default class ListFoods extends Component {
 
     
