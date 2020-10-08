@@ -6,7 +6,6 @@ import styles from './styles';
 
 export default function Almoco() {
   return (
-   
     <View style={styles.container}>
       <StatusBar style="auto" />
       <Text>Adicione seu Almoço.</Text> 
